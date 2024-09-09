@@ -63,12 +63,12 @@ You are free to use any pieces of the BAND Framework that will advance your own 
 
 BAND Framework currently includes some dependencies via git submodules. Currently, the following submodules are employed:
 
+* [software/](software/)jitr
 * [software/](software/)QGP_Bayes
 * [software/](software/)rose
 * [software/](software/)SAMBA
 * [software/](software/)surmise
 * [software/](software/)Taweret
-* [software/](software/)jitr
 
 As a consequence, when cloning the BAND Framework repository, the submodules can be retrieved automatically via
 - `git clone --recursive` (in place of the usual `git clone`)
