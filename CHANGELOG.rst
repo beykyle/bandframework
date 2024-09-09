@@ -13,6 +13,7 @@ Release 0.4.0
 
 New capabilities and notable changes:
 
+- added BAND-compatible jitr, a package containing a Lagrange mesh R-matrix solver for parametric reaction model calibration at `v1.4 <https://github.com/beykyle/jitr/releases/tag/v1.4>`_
 - added BAND-compatible PUQ, a parallel package for generating experimental designs tailored for uncertainty quantification at `v0.1.0 <https://github.com/parallelUQ/PUQ/releases/tag/v0.1.0>`_
 - updated BAND-compatible parMOO to `v0.4.1 <https://github.com/parmoo/parmoo/releases/tag/v0.4.1>`_, which now includes JIT compilation and automatic differentiation capabilities via `jax`
 - updated BAND-compatible SaMBA to `v1.1.0 <https://github.com/asemposki/SAMBA/releases/tag/v1.1.0>`_
